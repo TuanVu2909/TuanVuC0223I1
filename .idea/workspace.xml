@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51720a06-cadf-49ad-b825-bfa090f84ba5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BaiThi1/Cau1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiThi1/Cau2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiThi1/Cau3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiThi1/Cau4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Bài Thi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiThi1/Cau3.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiThi1/Cau3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiThi1/Cau4.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiThi1/Cau4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680142066671</updated>
-      <workItem from="1680142067005" duration="6245000" />
+      <workItem from="1680142067005" duration="7007000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/BaiThi1/Cau4.html</url>
+          <line>47</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

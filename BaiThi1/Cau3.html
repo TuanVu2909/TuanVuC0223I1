@@ -8,16 +8,32 @@
 
 </body>
 <script>
-  function string(){
-    let arr = ["hello","codeGym","tuan vu"];
-    let arr1 = ["hello"];
-    let str1;
-    let str2;
-    for (let i = 0; i<arr.length; i++){
+  function string(str,str1){
+    let arr = str.split();
+    let arr1 = str1.split();
 
-    }
+    let count = 0;
+
+            if (arr1.length <= arr.length) {
+                for (let i = 0; i < arr.length; i++){
+                    for (let j =0; j<= i; j++){
+                        if(arr1[j] === arr[i]){
+                            count++;
+                        }
+                    }
+                }if (count === arr1.length){
+                    return true;
+                }else {
+                    return false;
+                }
+
+                    }else {
+                return false;
+            }
   }
-
+let str="abcde";
+  let str1="abc";
+  console.log(string(str,str1))
 
 </script>
 </html>
